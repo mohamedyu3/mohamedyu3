@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/1754673322390.jpg">
-    <img alt="Mohamed Yousry — Squad Lead · Senior Full‑Stack PHP/Laravel" src="assets/banner-light.png" width="100%">
+    <img alt="Mohamed Yousry — Squad Lead · Senior Full‑Stack PHP/Laravel" src="assets/1754673322390.jpg" width="100%">
   </picture>
 </p>
 
