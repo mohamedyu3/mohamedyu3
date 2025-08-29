@@ -11,6 +11,9 @@ Egypt · Open to freelance/remote/onsite
   <!-- <img alt="rank" src="https://aktive.kerolloz.dev/egypt/mohamedyu3?label=Ranked%20in%20Egypt&rnkPrefix=Rank%20" /> -->
 </p>
 
+
+---
+
 ### 🧭 Summary
 
 Senior **Full‑Stack PHP/Laravel Developer & Squad Lead** with **10+ years of experience** designing and delivering scalable full‑stack web applications, APIs, and microservices for **enterprise and government clients in the Middle East**.
@@ -33,6 +36,19 @@ Senior **Full‑Stack PHP/Laravel Developer & Squad Lead** with **10+ years of e
 * **Grand Technology, Egypt — Senior Full‑Stack Developer & Team Leader (2019 – 2024)**
   Designed & implemented full‑stack architectures, optimized APIs, and led projects using **Laravel, React, Angular**.
 
+
+### 🚀 Featured Projects
+
+* **Saudi Film Platform – Ministry of Culture** — Unified platform managing the filmmaking process.
+  👉 [http://sfc.hwadi.com.sa/](http://sfc.hwadi.com.sa/)
+* **DAEM – Ministry of Investment** — AI‑powered strategic planning & intelligence.
+  👉 [http://spi\_demo.nextecontech.ai](http://spi_demo.nextecontech.ai)
+* **Online Conference Platform (VR)** — Virtual events with immersive experiences.
+  👉 [https://me-events.me/ar](https://me-events.me/ar)
+* **PlayIT Games App** — Mobile gaming app integrated with telecom operators (50K+ downloads).
+* **ZATCA Integrations (Phase‑2)** — Standard & simplified e‑invoices, QR/stamps, CSID renewal automations.
+
+
 ### 🧰 Tech Stack
 
 <p>
@@ -50,6 +66,7 @@ Senior **Full‑Stack PHP/Laravel Developer & Squad Lead** with **10+ years of e
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
 </p>
 
+
 ### 📊 GitHub Analytics
 
 <p align="center">
@@ -63,54 +80,10 @@ Senior **Full‑Stack PHP/Laravel Developer & Squad Lead** with **10+ years of e
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedyu3&theme=github-compact" />
 </p>
 
-
-
-
-### 🚀 Featured Projects
-
-* **Saudi Film Platform – Ministry of Culture** — Unified platform managing the filmmaking process.
-  👉 [http://sfc.hwadi.com.sa/](http://sfc.hwadi.com.sa/)
-* **DAEM – Ministry of Investment** — AI‑powered strategic planning & intelligence.
-  👉 [http://spi\_demo.nextecontech.ai](http://spi_demo.nextecontech.ai)
-* **Online Conference Platform (VR)** — Virtual events with immersive experiences.
-  👉 [https://me-events.me/ar](https://me-events.me/ar)
-* **PlayIT Games App** — Mobile gaming app integrated with telecom operators (50K+ downloads).
-* **ZATCA Integrations (Phase‑2)** — Standard & simplified e‑invoices, QR/stamps, CSID renewal automations.
-
-### 🧰 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
-</p>
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME" />
-</p>
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=10" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact" />
-</p>
-
 <!-- 🏆 Optional trophies -->
 
 <!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&margin-w=8&margin-h=8&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamedyu3&margin-w=8&margin-h=8&column=6" />
 </p> -->
 
 ### 🐍 Fun Zone
@@ -118,7 +91,7 @@ Senior **Full‑Stack PHP/Laravel Developer & Squad Lead** with **10+ years of e
 Add this line after you set up the workflow below 👇
 
 ```md
-![snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/mohamedyu3/mohamedyu3/output/github-contribution-grid-snake.svg)
 ```
 
 ### 📫 Connect
@@ -126,16 +99,6 @@ Add this line after you set up the workflow below 👇
 * Email: **[your.email@example.com](mailto:your.email@example.com)**
 * Portfolio / CV: [https://mohamed-yousry.cvforjob.com](https://mohamed-yousry.cvforjob.com)
 * LinkedIn: [https://www.linkedin.com/in/YOUR\_LINKEDIN/](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-
----
-
-<details>
-<summary>🇪🇬 النسخة العربية</summary>
-
-**محمد يسري شعبان** — **تقني نظم / قائد فريق Laravel** متخصص في **الفوترة الإلكترونية ZATCA (المرحلة الثانية)** و**هندسة الميكروسيرفيس**، مع خبرة واسعة في **Docker/Kubernetes** و**CI/CD**.
-أهم المشاريع: منصة التصوير السينمائي (وزارة الثقافة)، منصة DAEM (وزارة الاستثمار)، منصة المؤتمرات الافتراضية، وتكاملات ZATCA الكاملة (توقيع، QR، تصديق/تفويض).
-
-</details>
 
 ---
 
