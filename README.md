@@ -4,11 +4,11 @@
 Egypt · Open to freelance/remote/onsite
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square" target="_blank"><img alt="profile views" src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square" /></a>
-  <img alt="followers" src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square" />
-  <img alt="stars" src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER,ORGANIZATION_MEMBER&style=flat-square" />
+  <a href="https://komarev.com/ghpvc/?username=mohamedyu3&style=flat-square" target="_blank"><img alt="profile views" src="https://komarev.com/ghpvc/?username=mohamedyu3&style=flat-square" /></a>
+  <img alt="followers" src="https://img.shields.io/github/followers/mohamedyu3?label=Followers&style=flat-square" />
+  <img alt="stars" src="https://img.shields.io/github/stars/mohamedyu3?affiliations=OWNER,ORGANIZATION_MEMBER&style=flat-square" />
   <!-- Optional: Country rank badge (requires you to appear on committers.top) -->
-  <!-- <img alt="rank" src="https://aktive.kerolloz.dev/egypt/YOUR_USERNAME?label=Ranked%20in%20Egypt&rnkPrefix=Rank%20" /> -->
+  <!-- <img alt="rank" src="https://aktive.kerolloz.dev/egypt/mohamedyu3?label=Ranked%20in%20Egypt&rnkPrefix=Rank%20" /> -->
 </p>
 
 ---
