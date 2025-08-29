@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Mohamed Yousry Shabaan**
 
-**Senior PHP/Laravel Tech Lead** • **Microservices & ZATCA e‑Invoicing** • **DevOps‑curious**
-Egypt · Open to freelance/remote
+**Squad Lead & Senior PHP/Laravel** • **Microservices & ZATCA e‑Invoicing** • **DevOps‑curious**
+Egypt · Open to freelance/remote/onsite
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square" target="_blank"><img alt="profile views" src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square" /></a>
