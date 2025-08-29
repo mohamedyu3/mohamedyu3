@@ -71,14 +71,12 @@ Senior **Full‑Stack PHP/Laravel Developer & Squad Lead** with **10+ years of e
 
 ### 📊 GitHub Analytics
 
-<p align="center">
+<!--<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohamedyu3&show_icons=true&include_all_commits=true" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=mohamedyu3" />
-</p>
+</p>-->
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedyu3&layout=compact&langs_count=10" />
-</p>
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedyu3&theme=github-compact" />
 </p>
 
