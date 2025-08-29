@@ -10,23 +10,6 @@ Egypt · Open to freelance/remote/onsite
   <!-- Optional: Country rank badge (requires you to appear on committers.top) -->
   <!-- <img alt="rank" src="https://aktive.kerolloz.dev/egypt/mohamedyu3?label=Ranked%20in%20Egypt&rnkPrefix=Rank%20" /> -->
 </p>
-
-
-
-
-
-
-# 👋 Hi, I'm **Mohamed Yousry Shabaan**
-
-**Senior Full‑Stack PHP/Laravel Tech Lead** • **Microservices & ZATCA e‑Invoicing** • **DevOps‑curious**
-Egypt · Open to freelance/remote
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square" target="_blank"><img alt="profile views" src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square" /></a>
-  <img alt="followers" src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square" />
-  <img alt="stars" src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER,ORGANIZATION_MEMBER&style=flat-square" />
-</p>
-
 ---
 
 ### 🧭 Summary
