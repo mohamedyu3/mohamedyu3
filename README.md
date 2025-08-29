@@ -26,7 +26,6 @@ Egypt · Open to freelance/remote/onsite
 Senior **Full‑Stack PHP/Laravel Developer & Squad Lead** with **10+ years of experience** designing and delivering scalable full‑stack web applications, APIs, and microservices for **enterprise and government clients in the Middle East**.
 
 * Proven expertise in leading cross‑functional squads while remaining hands‑on in coding, architecture, and solution delivery.
-* Specialized in **Laravel 10/11/12**, **ZATCA Phase‑2** (QR, signatures, compliance/clearance), and **microservices architecture**.
 * Experienced in **Laravel 10/11/12, CodeIgniter, Slim, and native PHP** and **microservices architecture**.
 * Skilled in **Docker/Kubernetes**, **NGINX**, **Redis/RabbitMQ**, **MySQL/PostgreSQL**, **Node.js**, and **CI/CD (GitHub Actions)**.
 * Strong background in building scalable APIs, managing deployments, and mentoring teams.
