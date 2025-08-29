@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Mohamed Yousry Shabaan**
 
-**Squad Lead & Senior PHP/Laravel** • **Microservices & ZATCA e‑Invoicing** • **DevOps‑curious**
+**Squad Lead | Senior Full‑Stack PHP/Laravel Developer** • **Microservices** • **DevOps‑curious**
 Egypt · Open to freelance/remote/onsite
 
 <p align="center">
@@ -42,10 +42,12 @@ Senior **Full‑Stack PHP/Laravel Developer & Squad Lead** with **10+ years of e
 * **Saudi Film Platform – Ministry of Culture** — Unified platform managing the filmmaking process.
   👉 [http://sfc.hwadi.com.sa/](http://sfc.hwadi.com.sa/)
 * **DAEM – Ministry of Investment** — AI‑powered strategic planning & intelligence.
-  👉 [http://spi\_demo.nextecontech.ai](http://spi_demo.nextecontech.ai)
+  👉 [http://spi.nextecontech.ai](http://spi.nextecontech.ai)
 * **Online Conference Platform (VR)** — Virtual events with immersive experiences.
   👉 [https://me-events.me/ar](https://me-events.me/ar)
 * **PlayIT Games App** — Mobile gaming app integrated with telecom operators (50K+ downloads).
+  👉 [play.google](https://play.google.com/store/apps/details?id=com.gt.pi)
+  👉 [http://egypt.playit.mobi](http://egypt.playit.mobi/)
 * **ZATCA Integrations (Phase‑2)** — Standard & simplified e‑invoices, QR/stamps, CSID renewal automations.
 
 
@@ -101,12 +103,6 @@ Add this line after you set up the workflow below 👇
 * LinkedIn: [https://www.linkedin.com/in/YOUR\_LINKEDIN/](https://www.linkedin.com/in/YOUR_LINKEDIN/)
 
 ---
-
-## ⚙️ Setup — make this your profile README
-
-1. **Create the special repo**: make a new public repository **named exactly** `YOUR_USERNAME`. Initialize with a `README.md`.
-2. Replace all `YOUR_USERNAME` & contact links in this file, then paste it into that repo's `README.md`.
-3. (Optional) **Pin repos** from your profile ➜ *Customize your pins*.
 
 ### 🐍 Bonus — contribution “snake” workflow
 
