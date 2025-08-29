@@ -90,8 +90,6 @@ Senior **Full‑Stack PHP/Laravel Developer & Squad Lead** with **10+ years of e
 
 ### 🐍 Fun Zone
 
-Add this line after you set up the workflow below 👇
-
 ```md
 ![snake animation](https://raw.githubusercontent.com/mohamedyu3/mohamedyu3/output/github-contribution-grid-snake.svg)
 ```
@@ -103,46 +101,6 @@ Add this line after you set up the workflow below 👇
 * LinkedIn: [https://www.linkedin.com/in/YOUR\_LINKEDIN/](https://www.linkedin.com/in/YOUR_LINKEDIN/)
 
 ---
-
-### 🐍 Bonus — contribution “snake” workflow
-
-Create `.github/workflows/snake.yml` in the same repo with:
-
-```yaml
-name: Generate snake 🐍
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # daily
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake SVGs
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Publish to "output" branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-> After the first run, the image will be available at:
-> `https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg`
 
 ### 🔎 Notes
 
