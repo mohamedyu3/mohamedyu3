@@ -90,9 +90,8 @@ Senior **Full‑Stack PHP/Laravel Developer & Squad Lead** with **10+ years of e
 
 ### 🐍 Fun Zone
 
-```md
 ![snake animation](https://raw.githubusercontent.com/mohamedyu3/mohamedyu3/output/github-contribution-grid-snake.svg)
-```
+
 
 ### 📫 Connect
 
