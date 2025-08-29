@@ -82,11 +82,11 @@ Senior **Full‑Stack PHP/Laravel Developer & Squad Lead** with **10+ years of e
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedyu3&theme=github-compact" />
 </p>
 
-### 🏆 trophies 
+<!-- ### 🏆 trophies -->
 
- <p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mohamedyu3&margin-w=8&margin-h=8&column=6" />
-</p>
+</p> -->
 
 ### 🐍 Fun Zone
 
