@@ -95,18 +95,8 @@ Senior **Full‑Stack PHP/Laravel Developer & Squad Lead** with **10+ years of e
 
 ### 📫 Connect
 
-* Email: **[your.email@example.com](mailto:your.email@example.com)**
-* Portfolio / CV: [https://mohamed-yousry.cvforjob.com](https://mohamed-yousry.cvforjob.com)
-* LinkedIn: [https://www.linkedin.com/in/YOUR\_LINKEDIN/](https://www.linkedin.com/in/YOUR_LINKEDIN/)
+* Email: **[mohamed.yousry.shabaan@gmail.com](mailto:mohamed.yousry.shabaan@gmail.com)**
+* Portfolio / CV: [https://mohamed-yousry.cvforjob.com](https://mohamed-yousry.cvforjob.com/#portfolio)
+* LinkedIn: [https://www.linkedin.com/in/mohamed-yousry-14126aa7/](https://www.linkedin.com/in/mohamed-yousry-14126aa7/)
+* WhatsApp: [https://wa.me/01065875651](https://wa.me/01065875651)
 
----
-
-### 🔎 Notes
-
-* If the stats images rate‑limit, deploy your own instance of `github-readme-stats` (Vercel) or try later.
-* For the **country rank** badge, you must appear on [https://committers.top/egypt.html](https://committers.top/egypt.html) first.
-* Prefer keeping sections short; point to repos for deep dives.
-
----
-
-*If this template helps, ⭐ star your favorite repos!*
